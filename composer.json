@@ -1,5 +1,5 @@
 {
-  "name": "lunar/sage-installer",
+  "name": "lunar-build/sage-installer",
   "description": "Sage starter theme installer, forked by Lunar Build to support PHP8.1",
   "keywords": [
     "sage",
