@@ -4,6 +4,22 @@
 
 This repository contains the installation scripts for the [Sage starter theme](https://github.com/roots/sage).
 
+# Lunar notes
+## How to install
+
+Install using the following command:
+
+```bash
+composer require lunar-build/sage-installer
+```
+
+# How to maintain and release updates to Packagist
+
+* Amend source code
+* Commit and push to main branch
+* Tag the release, incrementing on the previous version `git tag <version>`
+* Push the tag which triggers an update to packagist repository `git push origin <version>`
+
 ## Contributing
 
 Contributions are welcome from everyone. We have [contributing guidelines](https://github.com/roots/guidelines/blob/master/CONTRIBUTING.md) to help you get started.
